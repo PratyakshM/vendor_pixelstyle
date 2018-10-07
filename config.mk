@@ -16,6 +16,7 @@ LOCAL_PATH := vendor/pixelstyle
 
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
+    Lawnchair \
     NexusLauncherRelease \
     AppLock \
     NexusWallpapersStubPrebuilt2019Static \
