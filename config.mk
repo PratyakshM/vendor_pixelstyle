@@ -16,11 +16,12 @@ LOCAL_PATH := vendor/pixelstyle
 
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
-    Lawnchair \
     NexusLauncherRelease \
     AppLock \
     NexusWallpapersStubPrebuilt2019Static \
     PixelThemesStub2019 \
+    OPScreenRecorder \
+    Lawnchair \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     GooglePermissionControllerOverlay
