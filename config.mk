@@ -87,7 +87,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.ime.system_lm_dir=/system/product/usr/share/ime/google/d3_lms \
     ro.com.google.ime.theme_id=5
 
-<<<<<<< HEAD
+
 #Fonts
 PRODUCT_COPY_FILES += \
     vendor/pixelstyle/cusfonts/gobold/Gobold.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Gobold.ttf \
