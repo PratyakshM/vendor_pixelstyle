@@ -19,9 +19,8 @@ PRODUCT_PACKAGES += \
     NexusLauncherRelease \
     AppLock \
     NexusWallpapersStubPrebuilt2019Static \
-    PixelThemesStub2019 \
     OPScreenRecorder \
-    Lawnchair \
+    PixelThemesStub2019 \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     GooglePermissionControllerOverlay
